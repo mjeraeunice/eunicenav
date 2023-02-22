@@ -1,0 +1,32 @@
+.navigate{
+   padding: 30px;
+}
+.Logo{
+    color: blue;
+    float: left;
+}
+
+#vrset{
+    width: 50%;
+    height: 100%;
+    float: right;
+ margin-right: 50px;
+ margin-bottom: 80%;
+
+}
+#nav ul li{
+    padding: 15px 20px;
+    display: inline-block;
+    list-style: none;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+    padding-right: 5px;
+    padding-left: 3px;
+}
+button{
+    background-color: blue;
+}
